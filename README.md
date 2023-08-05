@@ -12,10 +12,10 @@ Track and manage your running and cycling workouts with the Workout Tracker App.
 1.Clone the repository to your local machine:
 ```git clone https://github.com/your-username/workout-tracker-app.git```
 
-2. Open the project directory:
+1. Open the project directory:
 ```cd workout-tracker-app```
 
-3. Open the index.html file in your web browser to start using the app.
+1. Open the index.html file in your web browser to start using the app.
 
 ## Usage
 1. Click on the map to add a new workout. Fill in the workout details in the form that 
