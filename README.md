@@ -29,3 +29,4 @@ Track and manage your running and cycling workouts with the Workout Tracker App.
 - Leaflet.js library for interactive maps
 
 ## Preview
+[Mapty](https://ansh2822.github.io/Workout-Tracker/)
