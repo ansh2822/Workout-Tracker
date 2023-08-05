@@ -9,7 +9,7 @@ Track and manage your running and cycling workouts with the Workout Tracker App.
 - Responsive design for both desktop and mobile devices.
 
 ## Getting Started
-1.Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 ```git clone https://github.com/your-username/workout-tracker-app.git```
 
 1. Open the project directory:
